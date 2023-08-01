@@ -1,0 +1,8 @@
+@startuml diagrama
+object DNI
+object Persona
+
+DNI  --* PersonaApp
+Persona  --* PersonaApp
+PersonaApp --> Main
+@enduml

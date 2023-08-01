@@ -1,0 +1,14 @@
+libreria\entidades\Libro_.class
+libreria\principal\EJ1Libreria.class
+libreria\entidades\Editorial.class
+libreria\servicios\AutorServicio.class
+libreria\entidades\Editorial_.class
+libreria\servicios\EditorialServicio.class
+libreria\persistencia\AutorDAO.class
+libreria\persistencia\DAO.class
+libreria\entidades\Autor_.class
+libreria\entidades\Libro.class
+libreria\servicios\LibroServicio.class
+libreria\persistencia\EditorialDAO.class
+libreria\entidades\Autor.class
+libreria\persistencia\LibroDAO.class

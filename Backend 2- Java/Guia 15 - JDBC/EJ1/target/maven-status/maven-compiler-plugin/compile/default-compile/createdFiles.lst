@@ -1,0 +1,8 @@
+tienda\entidades\Fabricante.class
+principal\EJ1.class
+tienda\persistencia\ProductoDAO.class
+tienda\entidades\Producto.class
+tienda\persistencia\DAO.class
+tienda\persistencia\FabricanteDAO.class
+tienda\service\ProductoService.class
+tienda\service\FabricanteService.class

@@ -1,0 +1,29 @@
+Iniciar
+git init
+
+Agregar usuario
+git remote add Gonzalo Bravo <url>
+
+Informacion del repositorio
+git status
+
+Agregar un solo archivo y todo a la vez
+git add <archivo>            git add .
+
+Punto de guardado
+Git Commit
+
+Commit para guardar con mensaje
+git commit -m "mensaje de confirmación"
+
+Enviar cambios
+
+git push Gonzalo Bravo (Master o main) 
+
+Ver ramas
+
+git branch 
+
+Moverme en las ramas
+
+git checkout (nombre de rama)

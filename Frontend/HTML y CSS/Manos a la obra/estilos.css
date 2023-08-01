@@ -1,0 +1,13 @@
+body{
+    background-color: grey;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    border-style: ridge;
+}
+
+h1{
+    color: red;
+    font-size: large;
+}

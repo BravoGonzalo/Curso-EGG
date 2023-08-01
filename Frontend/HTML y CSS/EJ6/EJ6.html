@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="Enviar" method="post" enctype="multipart/form-data">
+        <div>
+            <label for="Nombre">Nombre de usuario</label><br>
+            <input name="Nombre" type="text" required>
+        </div>
+        <div>
+            <label for="Contraseña">Contraseña de usuario</label><br>
+            <input name="Contraseña" type="text" required>
+        </div>
+        <div>
+            <label for="Edad">Edad del usuario</label><br>
+            <input name="Edad" type="number" required>
+        </div>
+        <div>
+            <label for="Fecha">Fecha de nacimiento del usuario</label><br>
+            <input name="Fecha" type="date" required>
+        </div>
+        <div>
+            <label>Sexo del usuario</label><br>
+            <input name="M" type="radio" value="Masculino">
+            <label for="M">Masculino</label><br>
+            <input name="F" type="radio" value="Femenino">
+            <label for="F">Femenino</label><br>
+            <input name="P" type="radio" value="Prefiero no decir">
+            <label for="P">Prefiero no decir</label>
+        </div>
+        <div>
+            <label for="pais">Pais de nacimiento del usuario</label><br>
+            <select name="pais">
+                <option value="arg">Argentina</option>
+                <option value="bra">Brazil</option>
+                <option value="esp">España</option>
+                <option value="jap">Japon</option>
+            </select>
+        </div>
+        <div>
+            <button>Enviar</button>
+            <button>Borrar</button>
+        </div>
+        
+    </form>
+</body>
+
+</html>
